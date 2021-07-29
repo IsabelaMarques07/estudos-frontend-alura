@@ -1,10 +1,17 @@
 ## Projeto Alurinha
-<img src="" width="800px" align="center" alt="">
+### Antes e depois das aulas
+<img src="https://github.com/IsabelaMarques07/estudos-frontend-alura/blob/main/flexbox/img/antes.gif" width="400px" align="left" alt="">
+<img src="https://github.com/IsabelaMarques07/estudos-frontend-alura/blob/main/flexbox/img/depois.gif" width="400px" align="right" alt="">
+
 <br>
-
----
-
-<img src="" width="300px" align="right" alt="">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Curso e conteúdo
 #### Flexbox: Posicione elementos na tela
