@@ -1,4 +1,4 @@
-# Estudos de Frontend
+# Estudos Frontend
 Pequenos projetos e arquivos produzidos durante alguns cursos de HTML, CSS e Javascript da Alura.
 
 ---
