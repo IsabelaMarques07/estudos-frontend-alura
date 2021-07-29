@@ -1,6 +1,13 @@
 # Estudos Frontend
-Pequenos projetos e arquivos produzidos durante alguns cursos de HTML, CSS e Javascript da Alura.
 
+<div align="center">
+<img src="https://github.com/IsabelaMarques07/estudos-frontend-alura/blob/main/ilustracao.png" width="350px" align="center" alt="">
+</div>
+<br>
+<div align="center">
+Pequenos projetos e arquivos produzidos durante alguns cursos de HTML, CSS e Javascript da Alura.
+</div>
+                                                                                                                                  
 ---
 
 ## Assuntos
