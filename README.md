@@ -15,5 +15,9 @@ Pequenos projetos e arquivos produzidos durante alguns cursos de HTML, CSS e Jav
    <li>
     <a href="https://github.com/IsabelaMarques07/estudos-frontend-alura/tree/main/bootstrap">Bootstrap - Projetos de Single Page e Landing Page<a/>
   </li>
+  <li>
+    <a href="https://github.com/IsabelaMarques07/estudos-frontend-alura/tree/main/javascript">Javascript - Diversos projetos <a/>
+  </li>
  </ul>
+ 
 
