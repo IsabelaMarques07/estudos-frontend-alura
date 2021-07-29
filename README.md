@@ -13,7 +13,7 @@ Pequenos projetos e arquivos produzidos durante alguns cursos de HTML, CSS e Jav
     <a href="https://github.com/IsabelaMarques07/estudos-frontend-alura/tree/main/flexbox">Flexbox - Projeto Alurinha<a/>
   </li>
    <li>
-    <a href="https://github.com/IsabelaMarques07/estudos-frontend-alura/tree/main/boostrap">Bootstrap - Projetos de Single Page e Landing Page<a/>
+    <a href="https://github.com/IsabelaMarques07/estudos-frontend-alura/tree/main/bootstrap">Bootstrap - Projetos de Single Page e Landing Page<a/>
   </li>
  </ul>
 
