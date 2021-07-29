@@ -1,7 +1,12 @@
 ## Projeto Barbearia Alura
-<img src="" width="350px" align="right" alt="">
+<img src="https://github.com/IsabelaMarques07/estudos-frontend-alura/blob/main/basico-html-css/images/desktop.gif" width="800px" align="center" alt="">
+<br>
 
-### Cursos e conteúdos
+---
+
+<img src="https://github.com/IsabelaMarques07/estudos-frontend-alura/blob/main/basico-html-css/images/mobile.gif" width="300px" align="right" alt="">
+
+## Cursos e conteúdos
 #### HTML5 e CSS3 parte 1: A primeira página da Web
 * Tags HTML básicas
 * Conceitos básicos de seletores e propriedades com CSS
