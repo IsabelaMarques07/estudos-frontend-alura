@@ -6,3 +6,4 @@ Pequenos projetos e arquivos produzidos durante alguns cursos de HTML, CSS e Jav
 ## Assuntos
 
 <a href="https://github.com/IsabelaMarques07/estudos-frontend-alura/tree/main/basico-html-css">HTML e CSS - Projeto site Barbearia Alura<a/>
+<a href="https://github.com/IsabelaMarques07/estudos-frontend-alura/tree/main/flexbox">Flexbox - Projeto Alurinha<a/>
