@@ -1,0 +1,26 @@
+.flexContainer {
+    display: flex;
+  }
+  .flexItem {
+    width: 200px;
+    height: 100px;
+  }
+
+  .flexItem:nth-child(1){
+      background-color: aqua;
+  }
+  .flexItem:first-child {
+    flex-shrink: 2;
+  }
+  
+  .flexItem:nth-child(2){
+    background-color: rgb(38, 0, 255);
+}
+
+.flexItem:nth-child(3){
+    background-color: rgb(255, 0, 221);
+}
+
+.flexItem:nth-child(4){
+    background-color: rgb(255, 0, 43);
+}
