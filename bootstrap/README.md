@@ -1,9 +1,11 @@
-## Projeto Barbearia Alura
-<img src="" width="800px" align="center" alt="">
-<br>
+## Projetos de Landing Page e Single Page
+<img src="https://github.com/IsabelaMarques07/estudos-frontend-alura/blob/main/bootstrap/landing-page/src/img/desktop.gif"  height="300px" align="left" alt="">
+<img src="https://github.com/IsabelaMarques07/estudos-frontend-alura/blob/main/bootstrap/landing-page/src/img/mobile.gif" height="300px"  alt="">
 
----
+___
 
+<img src="https://github.com/IsabelaMarques07/estudos-frontend-alura/blob/main/bootstrap/single-page/img/desktop.gif"  height="300px" align="left" alt="">
+<img src="https://github.com/IsabelaMarques07/estudos-frontend-alura/blob/main/bootstrap/single-page/img/mobile.gif" height="300px"  alt="">
 
 ## Cursos e conteúdos
 #### Bootstrap: criação de uma single-page responsiva
